@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2002/08/31/big/img_17756</filename>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>101</xmin>
+            <ymin>89</ymin>
+            <xmax>231</xmax>
+            <ymax>281</ymax>
+        </bndbox>
+    </object>
+</annotation>

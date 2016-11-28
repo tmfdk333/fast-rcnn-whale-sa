@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2002/08/29/big/img_18718</filename>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>-32</xmin>
+            <ymin>40</ymin>
+            <xmax>53</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>76</ymin>
+            <xmax>271</xmax>
+            <ymax>248</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>237</xmin>
+            <ymin>49</ymin>
+            <xmax>323</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>332</xmin>
+            <ymin>0</ymin>
+            <xmax>425</xmax>
+            <ymax>127</ymax>
+        </bndbox>
+    </object>
+</annotation>

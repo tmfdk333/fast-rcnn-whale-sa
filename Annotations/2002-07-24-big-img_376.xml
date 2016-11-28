@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2002/07/24/big/img_376</filename>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>79</xmin>
+            <ymin>6</ymin>
+            <xmax>156</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>107</ymin>
+            <xmax>234</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>302</xmin>
+            <ymin>72</ymin>
+            <xmax>388</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+</annotation>

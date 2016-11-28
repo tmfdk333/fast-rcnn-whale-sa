@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2002/08/25/big/img_580</filename>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>7</ymin>
+            <xmax>114</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>154</xmin>
+            <ymin>154</ymin>
+            <xmax>283</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>316</xmin>
+            <ymin>48</ymin>
+            <xmax>408</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>
+</annotation>

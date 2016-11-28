@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2003/01/15/big/img_196</filename>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>151</xmin>
+            <ymin>12</ymin>
+            <xmax>234</xmax>
+            <ymax>144</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>325</xmin>
+            <ymin>65</ymin>
+            <xmax>409</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <face>face</face>
+        <bndbox>
+            <xmin>-31</xmin>
+            <ymin>78</ymin>
+            <xmax>33</xmax>
+            <ymax>190</ymax>
+        </bndbox>
+    </object>
+</annotation>
